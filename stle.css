@@ -142,7 +142,7 @@ ul li a:hover{
 /* ........form........ */
 .form{
     width: 250px;
-    height: 380px;
+    height: 400px;
     background:black;
     position: absolute;
     top: 115px;
@@ -214,15 +214,16 @@ a{
     /* padding-left: 40px; */
 }
 .liw{
-    padding-top: 15px;
+    /* padding-top: 10px; */
     text-align: center;
     color: #fff;
 }
 .icons{
-    text-align: center;  
+    text-align: center;
+    margin-bottom: 20px;  
 }
 .cons i{
     margin: 7px;
-    padding-bottom: 50px;
     font-size: 20px;
+    margin-bottom: 20px;
 }
